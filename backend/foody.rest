@@ -1,0 +1,16 @@
+###
+POST http://localhost:6969/auth/register
+Content-Type: application/json
+
+{
+  "username": "testuser5",
+  "password": "testpassword"
+}
+###
+POST http://localhost:6969/auth/login
+Content-Type: application/json
+
+{
+  "username": "testuser5",
+  "password": "testpassword"
+}

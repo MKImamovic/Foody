@@ -13,7 +13,7 @@ function LoginPage() {
                 <div className="flex flex-col items-start m-10">
                     <div className="flex felx-col justify-center mb-10 h-10">
                         <input type="text" className="bg-gray-400 rounded-sm w-70 p-1 " />
-                        <span className="ml-10 text-[#B4B4B8] text-xl">Username</span>
+                        <span className="ml-10 text-[#B4B4B8] text-xl">Hajro</span>
                     </div>
                     <div className="flex felx-col justify-center h-10">
                         <input type="text" className="bg-gray-400 rounded-sm w-70 p-1" />
